@@ -43,7 +43,6 @@ public class NumberNameToNumberConverter {
     * @param text
     * @return Converted text with substituted numeric representation.
     * 
-    * 
     */
    public String convertNumberNameToNumber (String text) {
       if (text == null || text.trim().isEmpty()) {
@@ -90,10 +89,6 @@ public class NumberNameToNumberConverter {
       }
    }
 
-   /** 
-    * Do any string preprocessing here, like removing certain special characters.
-    * @return 
-    */
    private String preprocess (String text) {
       return text.replaceAll("[\\-]", SPACE);
    }
