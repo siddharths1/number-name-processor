@@ -7,3 +7,8 @@ Input:
 
 Output:
 > As per a June 2017 census by the National Dairy Development Board, there are approximately 512100000 bovines in India.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
